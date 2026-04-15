@@ -1,1 +1,1 @@
-# odin_recipes
+This project is mainly just going to be a project I am making in the Odin Project. I will be making a website about recipes.
