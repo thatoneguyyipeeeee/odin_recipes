@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.navBar {
+    display: inline;
+    float: right;
+    text-align: right;
+    background-color: rgb(70, 70, 211);
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+}
+
+.navBarLinks {
+    display: inline;
+    text-decoration: none;
+    color: white;
+}
+
+.title {
+    height: 40px;
+    width: 600px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin: 0px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.navBar{
+    height: 40px;
+    display: inline;
+    float: left;
+    text-align: left;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    float: right;
+    margin-top: -40px;
+    padding-left: 16px;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 8px;
+    color: white;
+}
